@@ -3,7 +3,6 @@ Rencana Analisa
 2.Revenue : object kelola -> unit,driver
 3.Project : top 10 regional, top 10 per area
 
-
 Timing Analisa
 1.Tahunan
 2.Semesteran
@@ -15,3 +14,9 @@ Timing Analisa
 Departemen User
 1.Front office
 2.Back office
+
+Report To
+1.Staf
+2.Spv
+3.Manager
+4.Direktur
