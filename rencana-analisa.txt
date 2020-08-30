@@ -2,3 +2,4 @@ Rencana Analisa
 -LKDK : antar pulau, antar provinsi, antar kota
 -Revenue : object kelola -> unit,driver
 -Project : top 10 regional, top 10 per area
+-Periodically report : tahunan,semesteran,kuartalan,bulanan,mingguan,harian
