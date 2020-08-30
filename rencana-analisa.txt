@@ -1,5 +1,17 @@
 Rencana Analisa
--LKDK : antar pulau, antar provinsi, antar kota
--Revenue : object kelola -> unit,driver
--Project : top 10 regional, top 10 per area
--Periodically report : tahunan,semesteran,kuartalan,bulanan,mingguan,harian
+1.LKDK : antar pulau, antar provinsi, antar kota
+2.Revenue : object kelola -> unit,driver
+3.Project : top 10 regional, top 10 per area
+
+
+Timing Analisa
+1.Tahunan
+2.Semesteran
+3.Kuartalan
+4.Bulanan
+5.Mingguan
+6.Harian
+
+Departemen User
+1.Front office
+2.Back office
