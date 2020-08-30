@@ -4,3 +4,4 @@ Rencana Analisa
 3.Project : top 10 regional, top 10 per area
 4.Report  : tahunan,semesteran,kuartalan,bulanan,mingguan,harian
 5.User    : staf,spv,manager,direktur 
+6.Departemen : front-office, back-office
